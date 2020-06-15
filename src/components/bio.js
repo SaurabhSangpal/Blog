@@ -54,7 +54,7 @@ const Bio = () => {
         }}
       />
       <p>
-        Written by <strong>{author}</strong> who lives and works in Maharashtra, India
+        Written by <strong>{author}</strong> who lives and works in Bangalore, India
         as a game developer.
         {` `}
         <a href={`https://twitter.com/${social.twitter}`}>
