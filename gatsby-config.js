@@ -3,7 +3,7 @@ module.exports = {
     title: `Blog`,
     author: `Saurabh Sangpal`,
     description: `Everything related to software engineering, game development, and music production.`,
-    siteUrl: `https://www.sangpal.in/`,
+    siteUrl: `https://sangpal.in/`,
     social: {
       twitter: `SaurabhSangpal`,
     },
